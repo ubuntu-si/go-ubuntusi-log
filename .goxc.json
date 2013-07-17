@@ -1,0 +1,11 @@
+{
+	"ArtifactsDest": "../../dist",
+	"Arch": "amd64 i386 arm",
+	"Os": "linux",
+	"Resources": {},
+	"FormatVersion": "0.6",
+        "TasksExclude": [
+            "go-test",
+	    "go-vet"
+        ]
+}
